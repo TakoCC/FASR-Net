@@ -2,14 +2,14 @@
 
 ## Contents
 
-- [Declaration](#Declaration)
+- [Declaration](##Declaration)
 
-- [Models](#Models)
-- [Datasets](#Datasets)
-- [Demo Results](#Demo Results)
-- [Requirements and dependencies](#Requirements and dependencies)
+- [Models](##Models)
+- [Datasets](##Datasets)
+- [Demo Results](##Demo Results)
+- [Requirements and dependencies](##Requirements and dependencies)
 
-- [Quick Test](#Quick Test)
+- [Quick Test](##Quick Test)
 
 ## Declaration
 
@@ -17,7 +17,7 @@
 
 ## Models
 
-​	We provide our pre-trained model FASR-IXI.pt for IXI on [baidu cloud][https://pan.baidu.com/s/1fPZRYAJkd9EZB27IFj5Bkg] (spjj). 
+​	We provide our pre-trained model FASR-IXI.pt for IXI on [baidu cloud](https://pan.baidu.com/s/1fPZRYAJkd9EZB27IFj5Bkg) (spjj). 
 
 ​	The model for Fastmri will be updated if the paper is officially published.
 
@@ -25,9 +25,9 @@
 
 ​	In this paper, we conduct two experiments on two public datasets: IXI and Fastmri
 
-​	The IXI dataset can be downloaded from [IXI]([IXI Dataset – Brain Development (brain-development.org)](https://brain-development.org/ixi-dataset/)).
+​	The IXI dataset can be downloaded from [IXI](https://brain-development.org/ixi-dataset/).
 
-​	The Fastmri dataset can be downloaded from [Fastmri]([FastMRI](https://fastmri.org/)).
+​	The Fastmri dataset can be downloaded from [Fastmri](https://fastmri.org/).
 
 ## Demo Results
 
@@ -40,17 +40,18 @@
 
 ## Quick Test
 
-1.  Clone the github repo
+1. Clone the github repo
 
    ```
    git clone https://github.com/yimingliu123/FASR-Net
    cd FASR-Net
    ```
 
-2.  Place the pre-trained model in the proper location and modify "model_path" in test.sh
+2. Place the pre-trained model in the proper location and modify "model_path" in test.sh
 
-3.  Run test.sh. The results will be generated in the "test" folder.
+3. Run test.sh. The results will be generated in the "test" folder.
 
    ```
    sh test.sh
    ```
+
