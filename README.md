@@ -3,10 +3,12 @@
 ## Contents
 
 - [Declaration](#Declaration)
+
 - [Models](#Models)
 - [Datasets](#Datasets)
 - [Demo Results](#Demo Results)
-- [Requirements and dependencies](#Requirements and Dependencies)
+- [Requirements and dependencies](#Requirements and dependencies)
+
 - [Quick Test](#Quick Test)
 
 ## Declaration
@@ -21,7 +23,7 @@
 
 ## Datasets
 
-​	In this paper, we conduct two experiments on two public datasets: IXI and Fastmri.
+​	In this paper, we conduct two experiments on two public datasets: IXI and Fastmri
 
 ​	The IXI dataset can be downloaded from [IXI]([IXI Dataset – Brain Development (brain-development.org)](https://brain-development.org/ixi-dataset/)).
 
@@ -29,7 +31,7 @@
 
 ## Demo Results
 
-## Requirements and Dependencies
+## Requirements and dependencies
 
 * python 3.7 (recommend to use [Anaconda](https://www.anaconda.com/))
 * python packages: `pip install opencv-python imageio`
@@ -52,4 +54,3 @@
    ```
    sh test.sh
    ```
-
