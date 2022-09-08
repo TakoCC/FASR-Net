@@ -6,7 +6,7 @@
 - [Models](#Models)
 - [Datasets](#Datasets)
 - [Demo Results](#Demo Results)
-- [Requirements and dependencies](#Requirements and dependencies)
+- [Requirements and dependencies](#Requirements and Dependencies)
 - [Quick Test](#Quick Test)
 
 ## Declaration
@@ -29,7 +29,7 @@
 
 ## Demo Results
 
-## Requirements and dependencies
+## Requirements and Dependencies
 
 * python 3.7 (recommend to use [Anaconda](https://www.anaconda.com/))
 * python packages: `pip install opencv-python imageio`
